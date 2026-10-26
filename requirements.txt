@@ -1,0 +1,9 @@
+numpy
+pandas
+geopandas
+scikit-learn
+matplotlib
+contextily
+folium
+mapclassify
+jupyter

@@ -1,0 +1,5 @@
+cluster,n_PS,n_anomalies,median_velocity,median_acceleration,median_trend_change,median_seasonality,median_rmse,median_anomaly_score,percent_anomalies,cluster_name
+1,3076,15,-1.3,0.29,1.0163643824041513,1.0,1.0,0.3886847963554204,0.5,1: stabilne / słabe osiadanie
+2,1696,71,-1.6,-0.31,-3.293363893938204,1.3,1.3,0.41530071596252915,4.2,"2: stabilne / słabe osiadanie, przyspieszające"
+3,282,118,-8.6,1.82,-6.7103131856591745,4.9,1.4,0.5574875308434095,41.8,"3: silne osiadanie, przyspieszające, silnie sezonowe"
+4,571,78,-10.0,0.81,-0.4737413630050913,1.5,0.9,0.49810724074060847,13.7,4: silne osiadanie
